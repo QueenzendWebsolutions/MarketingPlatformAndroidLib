@@ -1,0 +1,3 @@
+include ':Marketingplatform'
+include ':app'
+rootProject.name = "MarketingPlatformAndroid"
